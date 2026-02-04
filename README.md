@@ -105,6 +105,7 @@ This system predicts **building energy consumption** using environmental, operat
 | **Temporal/Behavioral** | DayOfWeek | Weekday encoding (0-6) |
 | **Temporal/Schedule** | Holiday | Holiday indicator (0/1) |
 
+![System Design](imgs/system_diagram.png)
 ---
 
 ## Model Performance
